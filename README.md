@@ -3,4 +3,4 @@ Equalizer APO preset for Lenovo Legion 5 Pro speaker
 
 load speaker dsp into config 
 # Required:
-Voxengo plugins
+Voxengo polysquasher for volume boost
